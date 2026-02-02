@@ -6,7 +6,6 @@
       {
         "id": "1709a6c47a2fea3f",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "459970fd855790aa",
@@ -25,12 +24,11 @@
         ]
       },
       {
-        "id": "dbb899b49a105f2d",
+        "id": "0294745504c79b62",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "239dbfbfad60f1d8",
+            "id": "2cbb7a5bce89c924",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -188,19 +186,24 @@
       "slides-extended:Show Slide Preview": false
     }
   },
-  "active": "239dbfbfad60f1d8",
+  "active": "459970fd855790aa",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled.canvas",
+    "README.md",
+    "Screenshot 2026-02-02 at 16.08.14 1.png",
+    "Screenshot 2026-02-02 at 16.08.14.png",
+    "Screenshot 2026-02-02 at 16.07.32.png",
+    "Screenshot 2026-02-02 at 16.06.45.png",
     "sesiones/20260129_sesion_2/MI_TITULO.md",
     "sesiones/20260129_sesion_2/README.md",
     "2026-01-29.md",
-    "Untitled.canvas",
     "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/export_GRÀCIA.txt",
     "proyectos/Barcelona-Clean-Location/sketches/Equivor_Cupula_2023_barcelona/data/export_GRACIA.txt",
     "herramientas/00_datasets",
     "proyectos/proyecto _final-guia/ideas/README.md",
     "proyectos/proyecto _final-guia/README.md.md",
     "referencias/teoria_tecnica/README.md",
-    "README.md",
     "referencias/teoria_tecnica/dataVizs/videos/README.md",
     "herramientas/terminal/README.md",
     "proyectos/README.md",
@@ -226,15 +229,10 @@
     "proyectos/proyecto _final-guia/plantilla-proyecto/README.md",
     "herramientas/obsidian/miniguia_markdown_basico.md",
     "herramientas/terminal",
-    "herramientas/processing/librerias/unfolding_maps/Unfolding_for_processing_0.9.92.zip",
     "herramientas/instamaps/README.md",
     "referencias/teoria_tecnica/processing/concepts/assets/helloworld.jpg",
     "referencias/teoria_tecnica/processing/assets/matt_pearson.jpg",
     "referencias/teoria_tecnica/processing/assets/creative-coding.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/data/otra.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/data/bkg.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona02_nulas/data/otra.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona02_nulas/data/bkg.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona02/data/otra.jpg"
+    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/data/otra.jpg"
   ]
 }
