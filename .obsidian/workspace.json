@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PRESENTACION LUNES 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "PRESENTACION LUNES 2"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "bf867c954c8c52c8",
   "lastOpenFiles": [
-    "PRESENTACION LUNES 2.md",
     "README.md",
+    "PRESENTACION LUNES 2.md",
     "Untitled.base",
     "PRESENTACION.md",
     "Screenshot.md",
