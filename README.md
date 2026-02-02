@@ -9,3 +9,6 @@ Notas clase sesion 3:
 Generador de imagenes: 
 Comfy.ui- local o vast.ai
 Replicate.com
+
+Ideas:
+geolocalizacion de fotos con skates
