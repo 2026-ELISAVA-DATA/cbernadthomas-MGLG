@@ -5,7 +5,7 @@ PRESENTACION LUNES 2
 
 ![](https://www.creativeapplications.net/wp-content/uploads/2025/08/Plant-Futures-Jean-Christophe-Lett-Cover.jpg)
 
-[LINK](https://www.creativeapplications.net/member/plant-futures-datadriven-flora-morphologies/](https://www.creativeapplications.net/member/plant-futures-datadriven-flora-morphologies/)
+[LINK](https://www.creativeapplications.net/member/plant-futures-datadriven-flora-morphologies/)
 
 Por qué: 
 Me gusta esta idea porque convierte un problema abstracto y a menudo distante (el cambio climático) en una experiencia íntima, sensible y fácil de imaginar. Al seguir la vida de una sola flor a lo largo del tiempo, el proyecto traduce datos científicos y proyecciones climáticas en una narrativa visual y emocional, permitiéndome comprender las consecuencias del calentamiento global no solo desde la razón, sino también desde la empatía.
