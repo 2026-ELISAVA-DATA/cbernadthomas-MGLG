@@ -1,7 +1,7 @@
 ### cbernadthomas-MGLG
 Repo para asignatura DATA.
 ---
-La presentacion de creative projects: [ver presentación](PRESENTACION LUNES 2.md)
+La presentacion de creative projects: [ver presentación](obsidian://open?vault=cbernadthomas-MGLG&file=PRESENTACION%20LUNES%202)
 
 
 Notas clase sesion 3:

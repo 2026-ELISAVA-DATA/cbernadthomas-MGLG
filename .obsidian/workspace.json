@@ -22,6 +22,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "0d9744ae664899c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4c57b9e03f32650",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,6 +191,7 @@
     "PRESENTACION LUNES 2.md",
     "README.md",
     "Untitled.base",
+    "PRESENTACION.md",
     "Screenshot.md",
     "Untitled",
     "Screenshot 2026-02-02 at 16.06.45.png",
@@ -213,7 +230,6 @@
     "colaboracion_en_repo.md",
     "proyectos/proyecto _final-guia",
     "proyectos/concepto de proyecto",
-    "proyectos/proyecto _final-guia/plantilla-proyecto/README.md",
     "referencias/teoria_tecnica/processing/concepts/assets/helloworld.jpg",
     "referencias/teoria_tecnica/processing/assets/matt_pearson.jpg",
     "referencias/teoria_tecnica/processing/assets/creative-coding.jpg",
