@@ -1,7 +1,8 @@
 ### cbernadthomas-MGLG
 Repo para asignatura DATA.
 ---
-La presentacion esta en el archivo [[PRESENTACION LUNES 2]]
+La presentacion de creative projects esta en el archivo PRESENTACION LUNES 2
+[PRESENTACION LUNES 2](PRESENTACION LUNES 2.md)
 
 Notas clase sesion 3:
 
