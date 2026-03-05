@@ -3,8 +3,7 @@ PRESENTACION LUNES 2
 ---
 ### flores que cambian de color dependiendo de las condiciones de los bosques
 
-![](https://www.creativeapplications.net/wp-content/uploads/2025/08/Plant-Futures-Jean-Christophe-Lett-Cover.jpg)
-
+![imagen1](assets/Screenshot 2026-02-02 at 16.06.45.png)
 [LINK](https://www.creativeapplications.net/member/plant-futures-datadriven-flora-morphologies/)
 
 Por qué: 

@@ -13,31 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRESENTACION LUNES 2.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRESENTACION LUNES 2"
+              "title": "README"
             }
-          }
-        ]
-      },
-      {
-        "id": "0d9744ae664899c9",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e4c57b9e03f32650",
+            "id": "c34baea4e52c9ab0",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Futuro.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Slide Preview"
+              "title": "Futuro"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,25 +185,34 @@
       "slides-extended:Show Slide Preview": false
     }
   },
-  "active": "bf867c954c8c52c8",
+  "active": "c34baea4e52c9ab0",
   "lastOpenFiles": [
     "README.md",
+    "Futuro.md",
+    "assets/Screenshot 2026-02-02 at 16.08.02.png",
+    "assets/Screenshot 2026-02-02 at 16.07.32.png",
+    "assets/Screenshot 2026-02-02 at 16.06.45.png",
     "PRESENTACION LUNES 2.md",
+    "'/Users/koli/Documents/ELISAVA/DATA/cbernadthomas-MGLG/assets/Screenshot.md",
+    "'/Users/koli/Documents/ELISAVA/DATA/cbernadthomas-MGLG/assets",
+    "'/Users/koli/Documents/ELISAVA/DATA/cbernadthomas-MGLG",
+    "'/Users/koli/Documents/ELISAVA/DATA",
+    "'/Users/koli/Documents/ELISAVA",
+    "'/Users/koli/Documents",
+    "'/Users/koli",
+    "'/Users",
+    "'",
+    "assets/Screenshot.md",
+    "assets/Screenshot 2026-02-02 at 16.08.14.png",
+    "assets",
     "Untitled.base",
     "PRESENTACION.md",
     "Screenshot.md",
-    "Untitled",
-    "Screenshot 2026-02-02 at 16.06.45.png",
-    "Screenshot 2026-02-02 at 16.07.32.png",
     "Screenshot 2026-02-02 at 16.08.14 1.png",
     "Untitled.canvas",
-    "Screenshot 2026-02-02 at 16.08.14.png",
     "sesiones/20260129_sesion_2/MI_TITULO.md",
     "sesiones/20260129_sesion_2/README.md",
     "2026-01-29.md",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/export_GRÀCIA.txt",
-    "proyectos/Barcelona-Clean-Location/sketches/Equivor_Cupula_2023_barcelona/data/export_GRACIA.txt",
-    "herramientas/00_datasets",
     "proyectos/proyecto _final-guia/ideas/README.md",
     "proyectos/proyecto _final-guia/README.md.md",
     "referencias/teoria_tecnica/README.md",
@@ -221,18 +229,10 @@
     "sesiones/20260225_sesion_5/README.md",
     "sesiones/20260205_sesion_4/README.md",
     "sesiones/20260201_sesion_3/README.md",
-    "proyectos/de la observacion al dato",
-    "proyectos/agasso.Uf7xnXZo.mp4.part",
-    "proyectos/agasso.mp4",
     "proyectos/happiness.png",
     "proyectos/cine.png",
-    "proyectos/proyecto.md",
-    "colaboracion_en_repo.md",
-    "proyectos/proyecto _final-guia",
-    "proyectos/concepto de proyecto",
     "referencias/teoria_tecnica/processing/concepts/assets/helloworld.jpg",
     "referencias/teoria_tecnica/processing/assets/matt_pearson.jpg",
-    "referencias/teoria_tecnica/processing/assets/creative-coding.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/data/otra.jpg"
+    "referencias/teoria_tecnica/processing/assets/creative-coding.jpg"
   ]
 }
